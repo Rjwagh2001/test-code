@@ -20,10 +20,16 @@ system.out.println("Hi ++");
 }
 
 
-pubic vrahul m4()
+
 
 pubic vrahul m3()
+{
+system.out.println("Hi ++");
 
+}
+
+
+pubic vrahul m4()
 {
 system.out.println("Hi ++");
 
