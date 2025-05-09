@@ -1,0 +1,15 @@
+
+public class Rahul{
+
+pubic void main(String args[
+{
+system.out.println("Hi");
+
+}
+
+}
+
+
+
+
+
