@@ -4,5 +4,11 @@ public class Rahul{
 pubic void main(String args[
 {
 system.out.println("Hi");
+
+
+
+public String m1(){
+  system.out.println("Hi +++");
+}
 }
 
