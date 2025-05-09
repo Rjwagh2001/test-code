@@ -4,5 +4,21 @@ public class Rahul{
 pubic void main(String args[
 {
 system.out.println("Hi");
+
+
+
+
+
+
+pubic vrahul m2()
+{
+system.out.println("Hi ++");
 }
+}
+
+
+
+
+
+
 
