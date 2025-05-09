@@ -9,6 +9,20 @@ system.out.println("Hi");
 
 public String m1(){
   system.out.println("Hi +++");
+
+
+
+
+pubic vrahul m2()
+{
+system.out.println("Hi ++");
+
 }
 }
+
+
+
+
+
+
 
